@@ -36,6 +36,10 @@ class _HomeScreenState extends State<HomeScreen> {
     setState(() {
       _userImage;
       doImageClassification();
+      computerChoice = getComputerMove().toString();
+      computerChoiceImg = computerChoice + '.png';
+      gameResult = getTheGameResult(
+          classificationResult, computerChoice);
     });
   }
 
@@ -46,6 +50,10 @@ class _HomeScreenState extends State<HomeScreen> {
     setState(() {
       _userImage;
       doImageClassification();
+      computerChoice = getComputerMove().toString();
+      computerChoiceImg = computerChoice + '.png';
+      gameResult = getTheGameResult(
+          classificationResult, computerChoice);
     });
   }
 
