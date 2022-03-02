@@ -10,7 +10,7 @@ A new Flutter project.
 => helped me on letting user get pictures from his camera and gallery
 
 [ ![tflite](https://pub.dev/packages/tflite) ]
-=> used it for accessing TensorFlow Lite API , putting my model and let the package get the result of image classification
+=> Image classification
 
 ## Screen Shots
 
