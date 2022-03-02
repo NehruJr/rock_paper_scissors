@@ -7,7 +7,7 @@ A new Flutter project.
 
 ## Packages That i Have Used 
 [ ![Image Picker](https://pub.dev/packages/image_picker) ]
-=> helped me on letting user get pictures from his camera and gallery
+=> Helped me on letting user get pictures from his camera and gallery
 
 [ ![tflite](https://pub.dev/packages/tflite) ]
 => Image classification
